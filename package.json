@@ -39,7 +39,8 @@
     "path": "^0.12.7",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
-    "require": "^2.4.20"
+    "require": "^2.4.20",
+    "typescript": "^3.7.2"
   },
   "engines": {
     "node": "10.15.3"
